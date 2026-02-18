@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "c8806d682a22bc99",
+    "type": "split",
+    "children": [
+      {
+        "id": "5345e5576e5c78b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72b41a4cdbd16a62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2026-02-15 Agentic AI lookup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-15 Agentic AI lookup"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e84091eec80d580",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a9aa1936c8461da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7342fef7b76b8e3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0356ed4ca343c147",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ad954d3224816b2f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5
+  },
+  "right": {
+    "id": "9e88f6de89e0abd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "37eb36a9594db49c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90aa43ec502add5c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Notes/2026-02-15 Agentic AI lookup.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-02-15 Agentic AI lookup"
+            }
+          },
+          {
+            "id": "5018c4414c5f7981",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Notes/2026-02-15 Agentic AI lookup.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-02-15 Agentic AI lookup"
+            }
+          },
+          {
+            "id": "6ea26ac4404b6cc8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "41b4233100153007",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e53475ea13887eef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Notes/2026-02-15 Agentic AI lookup.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-02-15 Agentic AI lookup"
+            }
+          },
+          {
+            "id": "3c8b047b60b54460",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Daily Notes/2026-02-15 Agentic AI lookup.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "0e793203469785aa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 553.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0e793203469785aa",
+  "lastOpenFiles": [
+    "Daily Notes/2026-02-15 Agentic AI lookup.md",
+    "Daily Notes/2026-02-18 Isaac Sim setup.md",
+    "Excalidraw/Ideas.md",
+    "Excalidraw/Drawing 2026-02-18 21.01.27.excalidraw.md",
+    "General Notes/Environment Setup.md",
+    "General Notes/First Meeting Embodied AI.md",
+    "General Canvas.canvas",
+    "General Notes/Master S2 Start Presentation (Q&A).md",
+    "General Notes/Notes from S7 team digital twin (John's team) 30-01-2025.md",
+    "Daily Notes",
+    "ntitled.md",
+    "Untitled.base",
+    "Excalidraw",
+    "[[Notes.md",
+    "[[.md",
+    "here.md",
+    "General Notes"
+  ]
+}
