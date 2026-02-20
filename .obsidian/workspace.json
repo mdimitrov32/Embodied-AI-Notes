@@ -11,14 +11,14 @@
             "id": "c2b94961e9a8c956",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Daily Notes/2026-02-15 Agentic AI lookup.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "2026-02-15 Agentic AI lookup"
             }
           }
         ]
