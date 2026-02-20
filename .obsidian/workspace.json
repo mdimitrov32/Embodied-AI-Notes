@@ -11,12 +11,14 @@
             "id": "d3cb5b3e47211a1e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Media/Action-Graph-Isaac-Sim_v1.png"
+                "file": "Daily Notes/2026-02-20 ros2 progress.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Action-Graph-Isaac-Sim_v1"
+              "icon": "lucide-file",
+              "title": "2026-02-20 ros2 progress"
             }
           }
         ]
@@ -203,11 +205,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7342fef7b76b8e3f",
+  "active": "d3cb5b3e47211a1e",
   "lastOpenFiles": [
+    "Media/Action-Graph-Isaac-Sim_v1.png",
+    "Daily Notes/2026-02-20 ros2 progress.md",
     "Media",
     "Daily Notes/2026-02-18 Isaac Sim setup.md",
-    "Media/Action-Graph-Isaac-Sim_v1.png",
     "Daily Notes/2026-02-19 Github Hell.md",
     "Media/Isaac-Sim-UR5-Physics-Inspector.mp4",
     "Daily Notes/2026-02-15 Agentic AI lookup.md",
