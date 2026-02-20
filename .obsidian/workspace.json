@@ -11,12 +11,14 @@
             "id": "d3cb5b3e47211a1e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Ideas.md"
+                "file": "Daily Notes/2026-02-15 Agentic AI lookup.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Ideas"
+              "icon": "lucide-file",
+              "title": "2026-02-15 Agentic AI lookup"
             }
           }
         ]
@@ -203,12 +205,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43f7c0fd791bf6e5",
+  "active": "d3cb5b3e47211a1e",
   "lastOpenFiles": [
+    "Daily Notes/2026-02-18 Isaac Sim setup.md",
     "Excalidraw/Ideas.md",
     "Daily Notes/2026-02-19 Github Hell.md",
     "Daily Notes/2026-02-15 Agentic AI lookup.md",
-    "Daily Notes/2026-02-18 Isaac Sim setup.md",
     "New Text Document.txt",
     "Excalidraw/Drawing 2026-02-18 21.01.27.excalidraw.md",
     "General Notes/Environment Setup.md",
