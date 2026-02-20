@@ -11,14 +11,14 @@
             "id": "c2b94961e9a8c956",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Daily Notes/2026-02-15 Agentic AI lookup.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2026-02-15 Agentic AI lookup"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -207,16 +207,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e793203469785aa",
+  "active": "c2b94961e9a8c956",
   "lastOpenFiles": [
+    "Daily Notes/2026-02-20 ros2 progress.md",
+    "Daily Notes/2026-02-19 Github Hell.md",
+    "Daily Notes/2026-02-18 Isaac Sim setup.md",
+    "Daily Notes/2026-02-15 Agentic AI lookup.md",
     "Media/Isaac-Sim-UR5-Physics-Inspector.mp4",
     "Media/Action-Graph-Isaac-Sim_v1.png",
     "Media",
-    "Daily Notes/2026-02-20 ros2 progress.md",
-    "Daily Notes/2026-02-19 Github Hell.md",
-    "Daily Notes/2026-02-15 Agentic AI lookup.md",
     "New Text Document.txt",
-    "Daily Notes/2026-02-18 Isaac Sim setup.md",
     "Excalidraw/Ideas.md",
     "Excalidraw/Drawing 2026-02-18 21.01.27.excalidraw.md",
     "General Notes/Environment Setup.md",
