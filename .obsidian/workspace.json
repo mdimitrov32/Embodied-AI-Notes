@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2026-02-15 Agentic AI lookup.md",
+                "file": "Daily Notes/2026-02-18 Isaac Sim setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-15 Agentic AI lookup"
+              "title": "2026-02-18 Isaac Sim setup"
             }
           }
         ]
@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 553.5
+    "width": 421.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,10 +207,10 @@
   },
   "active": "d3cb5b3e47211a1e",
   "lastOpenFiles": [
-    "Daily Notes/2026-02-18 Isaac Sim setup.md",
-    "Excalidraw/Ideas.md",
     "Daily Notes/2026-02-19 Github Hell.md",
+    "Daily Notes/2026-02-18 Isaac Sim setup.md",
     "Daily Notes/2026-02-15 Agentic AI lookup.md",
+    "Excalidraw/Ideas.md",
     "New Text Document.txt",
     "Excalidraw/Drawing 2026-02-18 21.01.27.excalidraw.md",
     "General Notes/Environment Setup.md",
