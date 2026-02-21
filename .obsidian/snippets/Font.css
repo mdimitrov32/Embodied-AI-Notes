@@ -1,0 +1,5 @@
+/* THIS APPEARS TO CHANGE THE SOURCE VIEW FONT IN THE NEW LIVE EDITING */
+
+.markdown-source-view.mod-cm6 .cm-scroller {
+  font-family: 'Courier Prime Code', Menlo, 'iA Writer Mono V', 'iA Writer Duo V', Monaco, 'Courier Prime Code', monospace;
+}
