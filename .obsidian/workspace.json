@@ -11,17 +11,44 @@
             "id": "c2b94961e9a8c956",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Daily Notes/2026-02-15 Agentic AI lookup.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2026-02-15 Agentic AI lookup"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
+          },
+          {
+            "id": "4bf9ab95599db663",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: .gitignore  (Working Tree)"
+            }
+          },
+          {
+            "id": "124336d2ebc86be3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Ideas.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Ideas"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,16 +234,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2b94961e9a8c956",
+  "active": "7342fef7b76b8e3f",
   "lastOpenFiles": [
-    "Daily Notes/2026-02-15 Agentic AI lookup.md",
-    "New Text Document.txt",
+    "Daily Notes/2026-02-20 ros2 progress.md",
+    "Daily Notes/2026-02-19 Github Hell.md",
     "Daily Notes/2026-02-18 Isaac Sim setup.md",
+    "Daily Notes/2026-02-15 Agentic AI lookup.md",
+    "conflict-files-obsidian-git.md",
+    "General Canvas.canvas",
+    "Media/Isaac-Sim-UR5-Physics-Inspector.mp4",
     "Excalidraw/Ideas.md",
+    "Media/Action-Graph-Isaac-Sim_v1.png",
+    "Media",
+    "New Text Document.txt",
     "Excalidraw/Drawing 2026-02-18 21.01.27.excalidraw.md",
     "General Notes/Environment Setup.md",
     "General Notes/First Meeting Embodied AI.md",
-    "General Canvas.canvas",
     "General Notes/Master S2 Start Presentation (Q&A).md",
     "General Notes/Notes from S7 team digital twin (John's team) 30-01-2025.md",
     "Daily Notes",
