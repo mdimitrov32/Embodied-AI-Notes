@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ac56c0fa76aa4db4",
+        "id": "7b5f07001158a8a1",
         "type": "tabs",
         "children": [
           {
-            "id": "ac104a3b201d9473",
+            "id": "b697ddc3398a7429",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "aFile": "General Notes/Environment Setup.md",
+                "bFile": "General Notes/Environment Setup.md",
+                "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json  (Index)"
+              "title": "Diff: Environment Setup  (Working Tree)"
             }
           }
         ]
@@ -208,25 +207,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac104a3b201d9473",
+  "active": "b697ddc3398a7429",
   "lastOpenFiles": [
-    "Daily Notes/2026-02-20 ros2 progress.md",
-    "Daily Notes/2026-02-18 Isaac Sim setup.md",
-    "Daily Notes/2026-02-15 Agentic AI lookup.md",
-    "Daily Notes/2026-02-19 Github Hell.md",
-    "Untitled.md",
-    "conflict-files-obsidian-git.md",
-    "Excalidraw/Ideas.md",
-    "General Canvas.canvas",
+    "General Notes/Master S2 Start Presentation (Q&A).md",
     "Media/Isaac-Sim-UR5-Physics-Inspector.mp4",
     "Media/Action-Graph-Isaac-Sim_v1.png",
+    "General Notes/Notes from S7 team digital twin (John's team) 30-01-2025.md",
+    "General Notes/First Meeting Embodied AI.md",
+    "General Notes/Environment Setup.md",
+    "Excalidraw/Ideas.md",
+    "Daily Notes/2026-02-20 ros2 progress.md",
+    "Daily Notes/2026-02-19 Github Hell.md",
+    "Daily Notes/2026-02-18 Isaac Sim setup.md",
+    "Daily Notes/2026-02-15 Agentic AI lookup.md",
+    "Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "General Canvas.canvas",
     "Media",
     "New Text Document.txt",
     "Excalidraw/Drawing 2026-02-18 21.01.27.excalidraw.md",
-    "General Notes/Environment Setup.md",
-    "General Notes/First Meeting Embodied AI.md",
-    "General Notes/Master S2 Start Presentation (Q&A).md",
-    "General Notes/Notes from S7 team digital twin (John's team) 30-01-2025.md",
     "Daily Notes",
     "ntitled.md",
     "Untitled.base",
