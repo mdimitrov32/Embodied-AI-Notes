@@ -39,12 +39,14 @@
             "id": "124336d2ebc86be3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "split-diff-view",
               "state": {
-                "file": "Excalidraw/Ideas.md"
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
               },
-              "icon": "excalidraw-icon",
-              "title": "Ideas"
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
             }
           }
         ],
@@ -234,16 +236,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7342fef7b76b8e3f",
+  "active": "0e793203469785aa",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Ideas.md",
     "Daily Notes/2026-02-20 ros2 progress.md",
     "Daily Notes/2026-02-19 Github Hell.md",
     "Daily Notes/2026-02-18 Isaac Sim setup.md",
     "Daily Notes/2026-02-15 Agentic AI lookup.md",
-    "conflict-files-obsidian-git.md",
     "General Canvas.canvas",
     "Media/Isaac-Sim-UR5-Physics-Inspector.mp4",
-    "Excalidraw/Ideas.md",
     "Media/Action-Graph-Isaac-Sim_v1.png",
     "Media",
     "New Text Document.txt",
