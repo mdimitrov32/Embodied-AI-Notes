@@ -28,16 +28,14 @@
   "setup_list": [
     {
       "index": 0,
-      "all_states": "- [ ] \n- [x] || ✅ {time:: YYYY-MM-DD}\n",
+      "all_states": "- [ ] \n- [x]",
       "states": [
         "- [ ] ",
-        "- [x] || ✅ {time:: YYYY-MM-DD}",
-        ""
+        "- [x]"
       ],
       "sorteds": [
-        "- [x] || ✅ {time:: YYYY-MM-DD}",
         "- [ ] ",
-        ""
+        "- [x]"
       ],
       "states_dict": {}
     }
