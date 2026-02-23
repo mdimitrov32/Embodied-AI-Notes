@@ -7,10 +7,6 @@
 - Still requires initial human input 
 
 >[!warning] 
->maznichka
 
 
-
-
-
-
+- [ ] 

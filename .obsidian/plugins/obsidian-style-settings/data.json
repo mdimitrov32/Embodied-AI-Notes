@@ -31,5 +31,6 @@
   "anuppuccin-theme-settings@@callout-content-padding": "10px",
   "anuppuccin-theme-settings@@anp-callout-fold-position": "0",
   "anuppuccin-theme-settings@@anp-custom-checkboxes": true,
-  "anuppuccin-theme-settings@@anp-speech-bubble": true
+  "anuppuccin-theme-settings@@anp-speech-bubble": true,
+  "anuppuccin-theme-settings@@anp-codeblock-numbers": true
 }
