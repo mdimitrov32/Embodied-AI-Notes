@@ -1,3 +1,5 @@
+#meeting 
+
 
 LLM perspective - programming vs ai programming
 rather using ai as communication for robot, use it as a agent for the robot. 

@@ -1,4 +1,7 @@
+#meeting
 ### Regarding the Agentic AI
+
+Most of the progress is in [[2026-02-24 Working on setting up the env (Isaac + Docker(ros2))]]
 
 What kind of input will the LLM receive? human instructions, sensor data, etc.?
 	
