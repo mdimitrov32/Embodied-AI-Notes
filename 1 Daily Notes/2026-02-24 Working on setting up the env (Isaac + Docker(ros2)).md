@@ -10,3 +10,4 @@
   - issues with host network usage - resolved trough allowing the connection to host network
   - issues with rviz2 not finding display/cant start - resolved trough passing the host environments 
   - ==docked ros2 is able to see the topic from ros2 but not read it - unresolved. Issue might lie in the way docker wants to communicate NEED HELP.== 
+	  - Possible solving issue - everything in a docker (isaac sim + ros2)

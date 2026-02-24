@@ -1,3 +1,4 @@
+#misc 
 - Same as bachelor
 - General solution compared to BSc
 

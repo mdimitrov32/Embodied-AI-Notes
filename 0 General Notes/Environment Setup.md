@@ -1,4 +1,4 @@
-#omniverse 
+#omniverse #docker #isaac-sim 
 PC - 5600x, RTX 5070, 1TB SDD  
 OS - Ubuntu LTS 24.04.4 (noble)
 Omniverse - Isaac Sim 5.1.0 -> .deb install
