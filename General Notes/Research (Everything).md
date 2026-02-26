@@ -24,6 +24,8 @@ Should Question:
 # Possible research questions
 
 
+
+# 
 **Isaac sim Tick frequency** - default is 60 Hz, but it is highly configurable. **Default Physics Step:** The `TimeStepsPerSecond` in the `PhysicsScene` defaults to 60 Hz. [[2026-02-25 1-on-1 Meeting#^simFreq]]
 
 
