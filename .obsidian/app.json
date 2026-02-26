@@ -3,6 +3,6 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": false,
   "readableLineLength": false,
-  "strictLineBreaks": true,
+  "strictLineBreaks": false,
   "focusNewTab": true
 }
