@@ -2,7 +2,7 @@
   "showLineNumber": false,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": false,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "strictLineBreaks": true,
   "focusNewTab": true
 }
