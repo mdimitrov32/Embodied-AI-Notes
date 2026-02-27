@@ -1,4 +1,4 @@
-#omniverse #misc 
+#omniverse #misc #daily
 
 Ominverse = VR / Digital twin env (Glorified Game Engine
 Omniverse:

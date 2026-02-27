@@ -9,7 +9,7 @@
 - Analysis of software development benefits for the Fontys team requires an evaluative study of how world models improve robot robustness compared to traditional programming.
 
 
-## Directing research questions (not final but to build upon)
+# Directing research questions from Mr.Punter (not final but to build upon)
 Research questions The following research questions are exploratory. Used to guide the research towards a firm research area.
 
 How questions:
@@ -23,6 +23,9 @@ Should Question:
 
 # Possible research questions
 
-## Regarding LLM / Agentic AI
-How is Agentic AI 
+
+
+# 
+**Isaac sim Tick frequency** - default is 60 Hz, but it is highly configurable. **Default Physics Step:** The `TimeStepsPerSecond` in the `PhysicsScene` defaults to 60 Hz. [[2026-02-25 1-on-1 Meeting#^simFreq]]
+
 

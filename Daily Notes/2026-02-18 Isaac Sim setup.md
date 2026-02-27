@@ -1,4 +1,4 @@
-#isaac-sim #ros #omniverse 
+#isaac-sim #ros #omniverse #daily
 
 # Isaac Setup
 ![[Isaac-Sim-UR5-Physics-Inspector.mp4]]

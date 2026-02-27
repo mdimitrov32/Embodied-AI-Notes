@@ -9,6 +9,3 @@ This sem:
 
 Comm with uni mentors: 
 - Depending on teacher (some ppl do joint)
-
-Questions: 
-- Prof. skills explanation. What exactly means fully mastered (advanced or proficient)?
