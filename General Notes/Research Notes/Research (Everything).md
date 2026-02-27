@@ -1,4 +1,4 @@
-
+#research 
 # Research areas defined in the Project Proposal doc
 - Agentic AI integration requires research to bridge GenAI/LLMs (as cognitive engines) to physical cyber-physical systems via the Omniverse, including world models for robust behavior.
   

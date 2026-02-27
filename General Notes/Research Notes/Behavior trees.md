@@ -1,4 +1,4 @@
-#BehaviourTree
+#BehaviourTree #research 
 # What I know so far (General)
 - Solves the problem: What to do next?
 - Visual Modeling technique representing system behavior
