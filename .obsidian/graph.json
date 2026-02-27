@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "path:\"Daily Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5974616
+      }
+    },
+    {
       "query": "path:\"General Notes/Research Notes\"  ",
       "color": {
         "a": 1,
@@ -15,10 +22,10 @@
       }
     },
     {
-      "query": "path:\"Daily Notes\"  ",
+      "query": "",
       "color": {
         "a": 1,
-        "rgb": 5974616
+        "rgb": 5431378
       }
     }
   ],
