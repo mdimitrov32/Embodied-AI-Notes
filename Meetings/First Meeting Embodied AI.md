@@ -14,7 +14,7 @@ Agentic LLM
 How is behavior tree related to omnigraph?
 ## Persons
 
-Marek - Omniverse experience
+Mark Stappers - Omniverse experience
 
 ## What to get out of the research
 
