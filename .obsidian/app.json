@@ -1,13 +1,1 @@
-{
-  "showLineNumber": false,
-  "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": false,
-<<<<<<< HEAD
-  "readableLineLength": true,
-  "strictLineBreaks": true,
-=======
-  "readableLineLength": false,
-  "strictLineBreaks": false,
->>>>>>> origin/main
-  "focusNewTab": true
-}
+{}
