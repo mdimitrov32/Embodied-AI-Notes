@@ -10,7 +10,7 @@ Omniverse - Isaac Sim 5.1.0 -> .deb install
 
 ## ROS2 Jazzy
 Native install on host
-
+- MoveIt2 for motion planning
 
 
 
