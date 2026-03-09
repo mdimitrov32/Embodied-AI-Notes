@@ -1,4 +1,4 @@
-
+#embodiedAI #research 
 # Embodied AI (by NVIDIA)
 Source: https://www.nvidia.com/en-us/glossary/embodied-ai/
 Integration of trained AI model inside of a robot with the aim to allow autonomous operations.
