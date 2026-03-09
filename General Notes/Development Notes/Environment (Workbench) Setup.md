@@ -21,5 +21,10 @@ ROS2(Jazzy) on Docker - replicable on many machines
 
 
 # Work bench
+# Isaac sim
 Setup communication form between ROS2 and Isaac sim 
 ![[2026-02-18 Isaac Sim setup]]
+# ROS2
+
+## MoveIt2
+![[2026-03-09 Start of Workbench development]]
