@@ -1,4 +1,4 @@
-#isaac-sim #ros #omniverse #daily
+#daily
 # Isaac Setup
 ![[Isaac-Sim-UR5-Physics-Inspector.mp4]]
 Creation of a scene with UR5 arm

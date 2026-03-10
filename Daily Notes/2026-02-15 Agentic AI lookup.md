@@ -1,4 +1,4 @@
-#agenticAI #daily
+#daily
 # Agentic AI
 - Still and LLM like ChatGPT
 - Task/action oriented LLM
