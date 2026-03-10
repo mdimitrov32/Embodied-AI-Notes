@@ -1,3 +1,4 @@
+#research #agenticAI 
 - Zero-shot - The AI ability to recognize/classify data without prior knowledge based on basic concepts. Example: AI doesn't know "zebra" but knows "stripes" and "horse" therefore can classify zebra as a zebra without prior knowledge ^zeroshot
 - Few-shot - provides input output examples within the prompt. Allows the model to learn from few examples. This helps reduce the initial dataset and improve accuracy for specific tasks. ^few-shot
 - Autoregressive - machine learning technique that forecasts future values in sequence based on linear combination of previous values and is strongly influenced by it. Used for effective prediction and text generation.
