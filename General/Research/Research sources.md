@@ -15,3 +15,5 @@ From Language to Action: Can LLM-Based Agents Be Used for Embodied Robot Cogniti
 
 
 FROM ASSUMPTIONS TO ACTIONS: TURNING LLM REASONING INTO UNCERTAINTY-AWARE PLANNING FOR EMBODIED AGENTS: https://arxiv.org/pdf/2602.04326
+
+Automatic Behavior Tree Expansion with LLMs for Robotic Manipulation: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11127942
