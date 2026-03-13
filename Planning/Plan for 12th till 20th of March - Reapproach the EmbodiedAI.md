@@ -1,6 +1,6 @@
 # Research 
 Start the research all over again. Find Articles/Papers regarding:
-- [ ] Behavior Trees within Robotics
+- [x] Behavior Trees within Robotics
 - [ ] LLM controlled Robots
 - [ ] Analysis of the LLM controlled robots
 - [ ] Agentic AI

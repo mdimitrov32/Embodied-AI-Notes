@@ -1,0 +1,2 @@
+- Read a survey paper about the BTs in general.
+- Looked into inconsistency where a site article states that BTs are not reactive, but BT reactive sequences exists. 
