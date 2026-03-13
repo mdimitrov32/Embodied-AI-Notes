@@ -4,6 +4,10 @@
 # BTs
 
 Introduction to behavior trees: https://robohub.org/introduction-to-behavior-trees/
+- BTs new to the robotics
+	- Highly anticipated
+	- FSMs have better reactivity, BTs have better modularity.
+	- BTs easier to code and maintain
 
 # Agentic AI
 
