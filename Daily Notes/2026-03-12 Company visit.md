@@ -1,3 +1,4 @@
+#daily 
 ### Revision of the meeting
 - Still on bachelor level of approach, need to step it up
 - Documentation of research needs to be made
