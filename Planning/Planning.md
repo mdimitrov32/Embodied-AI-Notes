@@ -3,13 +3,13 @@
 After company visit: 
 - I am still on bachelor level of approach and thinking.
 - Have to be more proactive, initiate with teachers and peers. Search for help when stuck or unsure.
-# Research 
+## Research 
 Start the research all over again. Find Articles/Papers regarding:
 - [x] Behavior Trees within Robotics
 - [ ] LLM controlled Robots
 - [x] Agentic AI
 
-# Documentation
+## Documentation
 Tasks regarding documentation/project plan:
 - [x] Rewrite Project plan into "Research" plan:
 	- Creation is no more the focus of my work, research is.
@@ -18,10 +18,8 @@ Tasks regarding documentation/project plan:
 - [x] Clearly define Stake holders and their roles
 - [x] Don't hesitate to state uncertainties
 	-   Time plans can change, make that clear
-# Communication 
+## Communication 
 - [ ] Inform Teade about reallocation of work (towards research again).  
-
-
 
 # Plan for 22nd till 27th of March
 
@@ -29,7 +27,7 @@ Tasks regarding documentation/project plan:
 If Project plan is accepted:
 Start with deeper research on BT building (technical aspect):
 - [ ] BT.CPP and how to create BTs
-- [ ] Look into sim environments suggested from Teade - MuJoCo (Isaac sim already looked at) 
+- [ ] Look into sim environments suggested from Teade - MuJoCo (Isaac sim already looked at) and other options
 - [ ] Look into possible pipelines and APIs for LLM connection
 
 If project plan is not accepted: 
