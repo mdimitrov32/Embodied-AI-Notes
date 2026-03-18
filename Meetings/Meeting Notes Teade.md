@@ -42,7 +42,7 @@ End Products:
 - Document: A report detailing the findings during the research.
 
 
-# 2026-02-25 1-on-1 Meeting (with Teade Punter)
+# 2026-02-25 1-on-1 Meeting 
 #meeting 
 
 ## Stuff to look at 
@@ -70,6 +70,7 @@ Embodied AI - What it is?
 
 
 # 2026-03-18 Technical specification - clarification
+
 What are example AMRs to use for the simulation?
 What specific actions does the AMR need to do for the research?
 BT examples that have been made?
