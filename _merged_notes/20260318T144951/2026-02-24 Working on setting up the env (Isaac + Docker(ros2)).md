@@ -1,5 +1,5 @@
-#daily 
-# Dockerized ROS2 jazzy
+
+## Dockerized ROS2 jazzy
 
 - Successful set up of ros2 within Docker with the ability to use the host network and display (for rviz2)
   ![[ros2-docker-rviz2.png]]

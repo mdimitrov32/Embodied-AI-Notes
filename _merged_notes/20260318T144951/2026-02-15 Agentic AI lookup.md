@@ -1,5 +1,5 @@
-#daily
-# Agentic AI
+
+## Agentic AI
 - Still and LLM like ChatGPT
 - Task/action oriented LLM
 - Independent, achieving specific goals with minimal human oversight

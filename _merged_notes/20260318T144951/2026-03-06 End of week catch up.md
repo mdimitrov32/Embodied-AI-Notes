@@ -1,4 +1,4 @@
-#daily 
+
 ## End of front load research
 - found enough materials to start the test bench development, also if i spend too much time I will slack behind.
 

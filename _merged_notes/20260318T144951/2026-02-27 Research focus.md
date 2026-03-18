@@ -1,4 +1,4 @@
-#daily
+
 
 Recently I have shifted my focus on the research side of the project after conversations with my mentors regarding the approach of the assignment. It was obvious I was going head first into the development knowledge foundation. Therefore now my aim is to gather knowledge in the area and clearly define questions for my research based on the research gap that supposedly exists.
 
