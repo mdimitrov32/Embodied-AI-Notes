@@ -7,10 +7,6 @@ Omniverse:
 - bugs (a lot)
 
 Point cloud - Lidar scan data (example)
-
-
-
-
 # 2026-02-15 Agentic AI lookup
 
 ## Agentic AI
@@ -19,12 +15,6 @@ Point cloud - Lidar scan data (example)
 - Independent, achieving specific goals with minimal human oversight
 - AI that learns on itself by iterating the same task
 - Still requires initial human input 
-
-
-
-
-
-
 # 2026-02-18 Isaac Sim setup
 
 ## Isaac Setup
@@ -35,17 +25,12 @@ Creation of a scene with UR5 arm
 ![[Action-Graph-Isaac-Sim_v1.png|700x337]]
 	- ros2 integration (some problems with setting the publisher)
 
-
-
-
 # 2026-02-19 Github Hell
 
 ## Auth
 - had to figure git and github authentication hell
 - finally set up obsidian to git so i can make notes from different PCs
 - useful for future work
-
-
 # 2026-02-20 ros2 progress
 
 ## ros2 conn
