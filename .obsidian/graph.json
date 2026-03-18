@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-path:_merged_notes",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
@@ -20,13 +20,6 @@
         "a": 1,
         "rgb": 65484
       }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +32,6 @@
   "repelStrength": 12.7604166666667,
   "linkStrength": 1,
   "linkDistance": 249,
-  "scale": 0.31028132618291776,
+  "scale": 0.41659840946817356,
   "close": false
 }
