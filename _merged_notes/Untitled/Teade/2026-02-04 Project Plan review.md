@@ -1,4 +1,4 @@
-#meeting 
+
 # Research questions
 Refine the idea behind the research questions.
 Give context to the questions.

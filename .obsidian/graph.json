@@ -1,37 +1,22 @@
 {
   "collapse-filter": false,
   "search": "-path:_merged_notes",
-  "showTags": true,
-  "showAttachments": true,
-  "hideUnresolved": true,
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:\"Daily Notes\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5974616
-      }
-    },
-    {
-      "query": "path:\"General Notes/Research Notes\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 65484
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.1,
-  "nodeSizeMultiplier": 2.81796875,
-  "lineSizeMultiplier": 1.97578125,
+  "textFadeMultiplier": -0.8,
+  "nodeSizeMultiplier": 1.57,
+  "lineSizeMultiplier": 3.07992592592593,
   "collapse-forces": false,
-  "centerStrength": 0.419270833333333,
-  "repelStrength": 12.7604166666667,
+  "centerStrength": 0.717777777777778,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 249,
-  "scale": 0.41659840946817356,
-  "close": true
+  "linkDistance": 30,
+  "scale": 0.3164925269394369,
+  "close": false
 }

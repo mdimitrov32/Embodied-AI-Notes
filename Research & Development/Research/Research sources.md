@@ -1,5 +1,3 @@
-#research 
-
 
 # BTs
 

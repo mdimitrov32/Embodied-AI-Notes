@@ -1,5 +1,6 @@
+
 # 2026-02-04 Project Plan review 
-#meeting 
+
 ## Research questions
 Refine the idea behind the research questions.
 Give context to the questions.
@@ -43,7 +44,6 @@ End Products:
 
 
 # 2026-02-25 1-on-1 Meeting 
-#meeting 
 
 ## Stuff to look at 
 - Check sim frequency change ^simFreq

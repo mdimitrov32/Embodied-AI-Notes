@@ -13,7 +13,6 @@ Project plan:
 
 
 # First Meeting Embodied AI (around 2026-02-12)
-#meeting 
 
 
 LLM perspective - programming vs ai programming

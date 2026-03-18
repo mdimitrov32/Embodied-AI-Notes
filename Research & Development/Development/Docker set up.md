@@ -1,4 +1,4 @@
-#docker 
+
 
 >[!warning]
 Install the Docker-Engine (CLI) and **NOT** Docker Desktop!!! Docker Desktop runs in a **VM** which causes a lot issues down the road...
