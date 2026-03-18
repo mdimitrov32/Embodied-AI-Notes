@@ -71,11 +71,48 @@ Embodied AI - What it is?
 
 # 2026-03-18 Technical specification - clarification
 
-What are example AMRs to use for the simulation?
+
 What specific actions does the AMR need to do for the research?
-BT examples that have been made?
+- Move to nodes (stations), do arm actions.  
+- the idea is to move in between non close
+- Look into safety actions. 
+
+
+BT examples that have been made? search for examples on AMR
+
+The Construct - online sim for robotics.
+(Andy) Cooper's Lab - robots in labs.
 
 Ask for second assessor?
+Luuk. 
+
+Ask for use cases Mark Becks(start here), Mark Driver(maybe later).
+
+
+What are example AMRs to use for the simulation?
+AGV/AMR - Gecko Afular
+Look into both frameworks for robot control. 
+
+OpenTCS - look into that, open source tool
+
+Vladislav - TQ 5.2 Smart system labs
+
+tank based - no turning
+
+
+triangular shapes - holonomic - preferred
+50cm footprint
+
+look for model simulation environments
+- look for ROS2 connectivity
+- Easines of usage
+
+Speak with student in TQ (Mark Becks)
+
+
+For the next week: 
+- sim env for ROS2 ease of use and general ease of use (Reserarch)
+- disscuss if stuck 
 
 
 
