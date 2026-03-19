@@ -6,7 +6,7 @@ After company visit:
 ## Research 
 Start the research all over again. Find Articles/Papers regarding:
 - [x] Behavior Trees within Robotics
-- [ ] LLM controlled Robots
+- [x] LLM controlled Robots
 - [x] Agentic AI
 
 ## Documentation
@@ -19,18 +19,27 @@ Tasks regarding documentation/project plan:
 - [x] Don't hesitate to state uncertainties
 	-   Time plans can change, make that clear
 ## Communication 
-- [ ] Inform Teade about reallocation of work (towards research again).  
+- [ ] Inform Teade about the slow down with the work
 
 # Plan for 22nd till 27th of March
 
+## Development start
+After meeting with Teade, I have gathered some information about the cases. [[Meeting Notes Teade#2026-03-18 Technical specification - clarification]]
 
-If Project plan is accepted:
-Start with deeper research on BT building (technical aspect):
-- [ ] BT.CPP and how to create BTs
-- [ ] Look into sim environments suggested from Teade - MuJoCo (Isaac sim already looked at) and other options
-- [ ] Look into possible pipelines and APIs for LLM connection
+- [ ] Look into sim environments for the robot. 
+- Criteria:
+- To be of industry standard (known, widely used in robotics development)
+- Preferably native ROS2 connection (the less the set up the better)
+- Easier learning curve
+- Preferably not tied to hardware... (NVIDIA Isaac Sim :( )
+- [ ] Look into holonomic robots (preferred robot type for RobotLab)
+- [ ] Define first robot actions (basic) for BTs
 
-If project plan is not accepted: 
-- Ask for concise feedback on what exact areas, ask for example paper to take notes from. 
+## Regarding Project plan
+If the project plan is still not enough, ask for concise feedback on the parts that need to be improved and work that on the side.  
+
+
+
+
 
 

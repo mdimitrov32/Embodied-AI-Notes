@@ -67,24 +67,18 @@ Embodied AI - What it is?
 ## Environment settings
 - The environment for now remains on the host and at later stage can be dockerized. There is no need for additional complications at the current stage.
 
-
-
 # 2026-03-18 Technical specification - clarification
-
 
 What specific actions does the AMR need to do for the research?
 - Move to nodes (stations), do arm actions.  
 - the idea is to move in between non close
 - Look into safety actions. 
 
-
 BT examples that have been made? search for examples on AMR
 
 The Construct - online sim for robotics.
 (Andy) Cooper's Lab - robots in labs.
 
-Ask for second assessor?
-Luuk. 
 
 Ask for use cases Mark Becks(start here), Mark Driver(maybe later).
 
@@ -93,22 +87,21 @@ What are example AMRs to use for the simulation?
 AGV/AMR - Gecko Afular
 Look into both frameworks for robot control. 
 
-OpenTCS - look into that, open source tool
-
-Vladislav - TQ 5.2 Smart system labs
-
 tank based - no turning
-
 
 triangular shapes - holonomic - preferred
 50cm footprint
 
+OpenTCS - look into that, open source tool
+
+
 look for model simulation environments
 - look for ROS2 connectivity
-- Easines of usage
+- Easiness of usage
 
 Speak with student in TQ (Mark Becks)
 
+Vladislav - TQ 5.2 Smart system labs
 
 For the next week: 
 - sim env for ROS2 ease of use and general ease of use (Reserarch)

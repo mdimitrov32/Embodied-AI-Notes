@@ -1,18 +1,4 @@
-# 2026-03-12 Company visit
-
-# meetings 
-weekly in meeting: Peter and Gayatri
-
-- add new knowledge 
-- the PoC is just the tool of the research, it is not the goal.
-
-Project plan:
-- research phase is the most important.
-- RQ is to lead the the way and not deviate.
-- Put sources from review material (research papers) as references in the project plan. 
-
-
-# First Meeting Embodied AI (around 2026-02-12)
+# First Meeting Embodied AI (around 2026-02-12 together with Teade Punter)
 
 
 LLM perspective - programming vs ai programming
@@ -89,6 +75,18 @@ Main points made during the meeting:
 - Miscellaneous
 	- Laptop request from ISSD LT
 	- Lookup -> Arizona TSMC automated material handling systems (AMHS)
- 
+
+# 2026-03-12 Company visit
+
+# meetings 
+weekly in meeting: Peter and Gayatri
+
+- add new knowledge 
+- the PoC is just the tool of the research, it is not the goal.
+
+Project plan:
+- research phase is the most important.
+- RQ is to lead the the way and not deviate.
+- Put sources from review material (research papers) as references in the project plan. 
 
 
