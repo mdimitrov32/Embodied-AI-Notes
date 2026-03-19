@@ -19,11 +19,12 @@ Tasks regarding documentation/project plan:
 - [x] Don't hesitate to state uncertainties
 	-   Time plans can change, make that clear
 ## Communication 
-- [ ] Inform Teade about the slow down with the work
+- [x] Inform Teade about the slow down with the work
 
 # Plan for 22nd till 27th of March
 
 ## Development start
+### Information gather 
 After meeting with Teade, I have gathered some information about the cases. [[Meeting Notes Teade#2026-03-18 Technical specification - clarification]]
 
 - [ ] Look into sim environments for the robot. 
@@ -33,9 +34,15 @@ After meeting with Teade, I have gathered some information about the cases. [[Me
 - Easier learning curve
 - Preferably not tied to hardware... (NVIDIA Isaac Sim :( )
 - [ ] Look into holonomic robots (preferred robot type for RobotLab)
+- [ ] Find suitable holonomic + arm combination to use for sim robot
 - [ ] Define first robot actions (basic) for BTs
 
-## Regarding Project plan
+### Initial sim build
+If information and decision is made fast:
+- [ ] try to build first examples
+- [ ] explore
+
+## Project plan
 If the project plan is still not enough, ask for concise feedback on the parts that need to be improved and work that on the side.  
 
 

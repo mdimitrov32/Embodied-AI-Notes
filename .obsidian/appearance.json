@@ -4,7 +4,7 @@
   "textFontFamily": "JetBrains Mono",
   "interfaceFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "JetBrains Mono",
-  "baseFontSize": 18,
+  "baseFontSize": 16,
   "baseFontSizeAction": true,
   "cssTheme": "AnuPpuccin",
   "theme": "system",

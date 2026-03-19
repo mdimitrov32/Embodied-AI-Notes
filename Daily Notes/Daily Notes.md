@@ -135,7 +135,7 @@ Source: PROGPROMPT: Generating Situated Robot Task Plans  using Large Language M
 	- Too focused on technical development, too little research focus
 	- No evidence of research 
 	- Mention uncertainties, do not hide them.
-This resulted in me starting to write down concrete plannings for each week so I do not hover around different topics and slow down.
+This resulted in me starting to write down concrete plannings for each week so I do not hover around different topics and slow down. [[Planning]]
 
 
 
@@ -148,5 +148,17 @@ This resulted in me starting to write down concrete plannings for each week so I
 # 2026-03-16 Project plan and proper citation
 Today I have been working on my study plan, organizing sources and citing them in the project plan document.  
 Added proper performance measurement specifications and risk management table.
+
+# 2026-03-18 Meetings and information gather
+Today I had 3 meetings: 
+- with Gayatri:
+	We spoke about proper professional approach towards communication, meetings, and suggestions and approaches on writing project plans/research documentation
+- with RobotLab:
+	General meeting, shared progress with the rest of the team.
+- with Teade:
+	I've asked about information use cases, robot preference, etc. [[Meeting Notes Teade#2026-03-18 Technical specification - clarification]]  
+
+# 2026-03-19 Looked into sim environments
+Looked into sim environments based on the specifications and requirements. [[Simulation environment choice]]
 
 
