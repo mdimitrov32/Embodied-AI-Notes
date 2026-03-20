@@ -67,7 +67,7 @@ Embodied AI - What it is?
 ## Environment settings
 - The environment for now remains on the host and at later stage can be dockerized. There is no need for additional complications at the current stage.
 
-# 2026-03-18 Technical specification - clarification
+# 2026-03-18 Technical specification - clarification and more
 
 What specific actions does the AMR need to do for the research?
 - Move to nodes (stations), do arm actions.  

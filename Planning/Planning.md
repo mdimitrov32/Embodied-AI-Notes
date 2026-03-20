@@ -25,7 +25,7 @@ Tasks regarding documentation/project plan:
 
 ## Development start
 ### Information gather 
-After meeting with Teade, I have gathered some information about the cases. [[Meeting Notes Teade#2026-03-18 Technical specification - clarification]]
+After meeting with Teade, I have gathered some information about the cases. [[Meeting Notes Teade#2026-03-18 Technical specification - clarification and more]]
 
 - [ ] Look into sim environments for the robot. 
 - Criteria:

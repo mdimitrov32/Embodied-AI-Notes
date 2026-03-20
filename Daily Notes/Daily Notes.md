@@ -156,7 +156,7 @@ Today I had 3 meetings:
 - with RobotLab:
 	General meeting, shared progress with the rest of the team.
 - with Teade:
-	I've asked about information use cases, robot preference, etc. [[Meeting Notes Teade#2026-03-18 Technical specification - clarification]]  
+	I've asked about information use cases, robot preference, etc. [[Meeting Notes Teade#2026-03-18 Technical specification - clarification and more]]  
 
 # 2026-03-19 Looked into sim environments
 Looked into sim environments based on the specifications and requirements. [[Simulation environment choice]]
