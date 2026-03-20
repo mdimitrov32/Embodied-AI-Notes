@@ -23,7 +23,14 @@ Tasks regarding documentation/project plan:
 
 # Plan for 22nd till 27th of March
 
+## Reflection 
+- [ ] Write some reflection points of the first sprint: 
+	- Can be anything
+		- Professional
+		- Personal
+		- On the research topic
 ## Development start
+
 ### Information gather 
 After meeting with Teade, I have gathered some information about the cases. [[Meeting Notes Teade#2026-03-18 Technical specification - clarification and more]]
 
