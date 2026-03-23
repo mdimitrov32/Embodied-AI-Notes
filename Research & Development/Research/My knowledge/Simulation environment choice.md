@@ -17,7 +17,18 @@ Learning curve uses users experiences expressions from forums like reddit. Not c
 | MuJoCo           | Via mujoco_ros2_control, ros2_control plugin | Moderate           | Low (CPU-focused, optional GPU) |
 With all the information gathered till now, compelling choices are: Ignition Gazebo, Webots and Isaac sim. All of them provide provide good connectivity with ROS2 out of the box. Out of the tree I will go with Gazebo, since it has been most paired with ROS2, as well as low resource requirements and not being tied to hardware requirements.
 
+Given that we are going with Ignition Gazebo and ROS2 on Ubuntu 24.04 LTS the following combination is needed for all connection to work:
+- OS - Ubuntu 24.04 LTS (noble)
+- Sim - Gazebo Harmonic LTS
+- Framework/Middleware - ROS2 Jazzy LTS
+These are the following requirements in terms of versions of software to have proper compatibility.
+
+
+
 # Robot choice
 
-Example: [Tidy bot](https://tidybot2.github.io/) 
-Already built holonomic robot with 6 DOF, opens source 
+1. [Tidy bot](https://tidybot2.github.io/) 
+	Already built holonomic robot with 6 DOF, opens source
+	Problem: mojuco only file found for now
+2. Ridgeback + UR10
+	Standard configuration, modeled in ROS2 using xacro 
