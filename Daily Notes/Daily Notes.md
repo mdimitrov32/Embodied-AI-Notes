@@ -162,3 +162,9 @@ Today I had 3 meetings:
 Looked into sim environments based on the specifications and requirements. [[Simulation environment choice]]
 
 
+# 2026-03-23 Getting ready for sim env
+
+- Looked into general Gazebo-ROS2 sim connection
+- Looked into holonomic AMRs with robot arms (6 DOF)
+	- Found (TidyBot++)
+
