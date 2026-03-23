@@ -159,6 +159,6 @@ Today I had 3 meetings:
 	I've asked about information use cases, robot preference, etc. [[Meeting Notes Teade#2026-03-18 Technical specification - clarification and more]]  
 
 # 2026-03-19 Looked into sim environments
-Looked into sim environments based on the specifications and requirements. [[Simulation environment choice]] a 
+Looked into sim environments based on the specifications and requirements. [[Simulation environment choice]]
 
 
