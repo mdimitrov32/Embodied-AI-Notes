@@ -27,5 +27,8 @@ These are the following requirements in terms of versions of software to have pr
 
 # Robot choice
 
-Example: [Tidy bot](https://tidybot2.github.io/) 
-Already built holonomic robot with 6 DOF, opens source 
+1. [Tidy bot](https://tidybot2.github.io/) 
+	Already built holonomic robot with 6 DOF, opens source
+	Problem: mojuco only file found for now
+2. Ridgeback + UR10
+	Standard configuration, modeled in ROS2 using xacro 
