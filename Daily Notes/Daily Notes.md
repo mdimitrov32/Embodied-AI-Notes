@@ -161,16 +161,20 @@ Today I had 3 meetings:
 # 2026-03-19 Looked into sim environments
 Looked into sim environments based on the specifications and requirements. [[Simulation environment choice]]
 
-# 2026-03-23 Attempt into creating robot into Gazebo
+# 2026-03-23 Getting ready for sim env and Attempt into creating robot into Gazebo 
 
-Looked into possible holonomic/mecanum 3/4 wheel bases and robotic arms [[Simulation environment choice#Robot choice]] and tried to build the tidy bot and the ridgeback+ur10. Had issues:
+Looked into possible holonomic/mecanum 3/4 wheel bases and robotic arms [[Simulation environment choice#Robot choice]]
+
+- Looked into general Gazebo-ROS2 sim connection
+- Looked into holonomic AMRs with robot arms (6 DOF)
+	- Found (TidyBot++) which is student made mecanum omniway robot with robotic arm
+	- Found a combination of ridgeback and UR10 from 
+
+Tried to build the tidy bot and the ridgeback+ur10. Had issues:
 - Tidybot++ is in xml for mojuco and could find fast way to convert to urdf
 - ridgeback + ur10 had more progress but it would not load the combination into gazebo sim, might need to start fresh.
 
 
-# 2026-03-23 Getting ready for sim env
 
-- Looked into general Gazebo-ROS2 sim connection
-- Looked into holonomic AMRs with robot arms (6 DOF)
-	- Found (TidyBot++)
+
 
