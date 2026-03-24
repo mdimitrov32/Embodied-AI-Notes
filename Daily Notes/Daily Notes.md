@@ -175,6 +175,14 @@ Tried to build the tidy bot and the ridgeback+ur10. Had issues:
 - ridgeback + ur10 had more progress but it would not load the combination into gazebo sim, might need to start fresh.
 
 
+# 2026-03-24 Robot building
+Today I worked on mashing a robot combination of ridgeback and ur10, then deploying it in gazebo. 
+
+It almost worked... I managed to build it with the xacro files, but could not get the proper ros2 controllers to work (ridgeback makes some of its own or smth). Started all over because one of the cloned repositories was clogged wit all sorts of robots... also found standalone git for the ridgeback. 
+
+
+
+
 
 
 
