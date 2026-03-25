@@ -56,9 +56,10 @@ If the project plan is still not enough, ask for concise feedback on the parts t
 
 - [ ] Research Report
 	- Write a paper with the research findings around the research questions
-	- Cite information found from all of these papers
-	- Ask for feedback on the integrity of the research report
-
+		- Cite information found from all of these papers
+		- Ask for feedback on the integrity of the research report
+- [ ] Research citation styles
+	- Ask Peter for preferred citation style: IEEE
 
 
 
