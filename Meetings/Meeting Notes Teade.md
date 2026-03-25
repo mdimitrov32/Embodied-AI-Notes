@@ -104,10 +104,29 @@ Speak with student in TQ (Mark Becks)
 Vladislav - TQ 5.2 Smart system labs
 
 For the next week: 
-- sim env for ROS2 ease of use and general ease of use (Reserarch)
+- sim env for ROS2 ease of use and general ease of use (Research)
 - discuss if stuck 
 
-# 2026-03-25 
+# 2026-03-25 Meeting (with Peter)
+
+Give version to the project plan 
+
+Add research question. 
+Search for known examples that have been investigated for BTs. I have to compare with exciting examples of BTs. 
+
+Explore why would a AI generated BTs is better than Humanly-made.
+Reproducible behavior from AI agent.
+
+Go first for the available stuff (AI and human) and then go for the hybrid later. 
+
+Explorative approach look into all of them.
+
+If I say something (the What?) I have to explain the Why? 
+
+Provide pictures for clearer understanding 
+
+
+
 
 
 
