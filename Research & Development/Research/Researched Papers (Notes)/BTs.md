@@ -1,5 +1,7 @@
-Source: https://en.wikipedia.org/wiki/Behavior_tree_(artificial_intelligence,_robotics_and_control)
 
+
+
+Source: https://en.wikipedia.org/wiki/Behavior_tree_(artificial_intelligence,_robotics_and_control)
 # 1. General Explanation
 ## Key concepts
 
@@ -12,6 +14,9 @@ Source: https://en.wikipedia.org/wiki/Behavior_tree_(artificial_intelligence,_ro
 		- Sequence nodes - will return failed or running immediately after one of the children returns  failure or running
 - Execution Node
 	One parent, no children
+
+
+
 
 
 

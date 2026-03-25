@@ -105,7 +105,10 @@ Vladislav - TQ 5.2 Smart system labs
 
 For the next week: 
 - sim env for ROS2 ease of use and general ease of use (Reserarch)
-- disscuss if stuck 
+- discuss if stuck 
+
+# 2026-03-25 
+
 
 
 

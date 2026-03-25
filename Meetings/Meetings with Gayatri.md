@@ -1,4 +1,4 @@
-# 2026-03-25 
+# 2026-03-25 Research approach focused talk
 
 - Keep log even if it fails 
 - More research, search for more people
