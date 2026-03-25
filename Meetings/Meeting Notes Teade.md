@@ -125,6 +125,7 @@ If I say something (the What?) I have to explain the Why?
 
 Provide pictures for clearer understanding 
 
+How can Agentic AI do BTs
 
 
 
