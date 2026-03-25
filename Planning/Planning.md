@@ -24,7 +24,7 @@ Tasks regarding documentation/project plan:
 # Plan for 22nd till 27th of March
 
 ## Reflection 
-- [ ] Write some reflection points of the first sprint: 
+- [x] Write some reflection points of the first sprint: 
 	- Can be anything
 		- Professional
 		- Personal
@@ -34,14 +34,14 @@ Tasks regarding documentation/project plan:
 ### Information gather 
 After meeting with Teade, I have gathered some information about the use cases/requrments. [[Meeting Notes Teade#2026-03-18 Technical specification - clarification and more]]
 
-- [ ] Look into sim environments for the robot. 
+- [x] Look into sim environments for the robot. 
 - Criteria:
 - To be of industry standard (known, widely used in robotics development)
 - Preferably native ROS2 connection (the less the set up the better)
 - Easier learning curve
 - Preferably not tied to hardware... (NVIDIA Isaac Sim :( )
-- [ ] Look into holonomic robots (preferred robot type for RobotLab)
-- [ ] Find suitable holonomic + arm combination to use for sim robot
+- [x] Look into holonomic robots (preferred robot type for RobotLab)
+- [x] Find suitable holonomic + arm combination to use for sim robot
 - [ ] Define first robot actions (basic) for BTs
 
 ### Initial sim build
