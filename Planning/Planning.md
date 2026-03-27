@@ -54,17 +54,21 @@ If the project plan is still not enough, ask for concise feedback on the parts t
 
 # Planning for 30th till 3rd of April
 
-
 ## Till Wednesday
 - [ ] Adjust the Project plan after the meeting with Teade and Peter [[Meeting Notes Teade#2026-03-25 Meeting (with Peter)]]
-	- [ ] 
+	- [ ] Adjust the performance metrics: Provide overall possible metrics and WHY. 
+		- [ ] Look into the BT performance metric paper. Find suitable metrics for research proposition.  
+	- [ ] Figure out what is wrong with the research questions. 
+		- [ ] Try to make them more concrete and clearer.
+	- [ ] Look trough the entire document. Look for claims and verify them. If it is outside information - reference, if it is claim - explain why. 
 ## Till Friday
 - [ ] Research Report
 	- Write a paper with the research findings around the research questions
 		- Cite information found from all of these papers
 		- Ask for feedback on the integrity of the research report
-- [ ] Research citation styles
+- [x] Research citation styles
 	- Ask Peter for preferred citation style: IEEE
+- [ ] Speak with 
 
 
 
