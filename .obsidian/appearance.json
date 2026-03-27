@@ -1,8 +1,8 @@
 {
   "enabledCssSnippets": [],
   "accentColor": "#dd587c",
-  "textFontFamily": "JetBrains Mono",
-  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "Inter,JetBrains Mono",
+  "interfaceFontFamily": "Inter,JetBrains Mono",
   "monospaceFontFamily": "JetBrains Mono",
   "baseFontSize": 16,
   "baseFontSizeAction": true,
