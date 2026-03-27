@@ -115,6 +115,7 @@ Add research question.
 Search for known examples that have been investigated for BTs. I have to compare with exciting examples of BTs. 
 
 Explore why would a AI generated BTs is better than Humanly-made.
+
 Reproducible behavior from AI agent.
 
 Go first for the available stuff (AI and human) and then go for the hybrid later. 
