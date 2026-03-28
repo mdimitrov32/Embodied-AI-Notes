@@ -27,6 +27,9 @@ The following metrics taken from the Evaluation BT paper:
 - Condition check frequency - quantifies the frequency at which a specific condition node is ticked/evaluated over a given time: $CFF=\huge{\frac{n\_evaluations}{\Delta T}}$ where $n\_evaluations$ is the number of times a the condition node is ticked and $\Delta T$ is the time interval. Higher $CFF$ indicates higher check frequency. Can be used for BT reactivity. 
 ## Non-functional metrics
 Non-functional metrics are the metrics of the static properties of the BT, such as tree depth, condition-to-fallback ratio, action granularity, etc. Anything that is inside the behavior tree after creation.
+- Tree Dimensions - stuff like height, width, number of nodes.  I will use depth and height interchangeably. 
+	- Height - total number of edges from the root node to the leaf node in the longest path. 
+	- Width - maximum number of nodes that exist at any level within the tree structure. 
 
 
 # Disclaimer 
