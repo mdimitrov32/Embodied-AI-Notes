@@ -16,7 +16,6 @@ What is the evaluation metric?
 Functional metrics are metrics obtained trough observing the performance of the executioner of the BT (in this case - AMR manipulator) such as success/failure rate
 
 The following metrics taken from the Evaluation BT paper: 
-### Examples 
 - **Use of Resource** - The metric is used to quantify the optimization of resource allocation, management, and utilization of its designated task. One example is the time it takes a BT to complete execution or time for single node execution. 
 - **Predictability Distance** - This metric was originally defined by Colledanchise [15,19] for evaluating parallel behaviors. The approach consists of defining a target progress value and then calculating the average deviation between the expected and the actual time at which the action reaches progress closest to the desired value. While primarily utilized in the context of parallel behaviors, it can potentially be used in sequential behavior scenarios as well. (directly taken form paper, do not understand)
 - **Success Rate** - Many definitions on success rate depending on context
@@ -35,6 +34,11 @@ Non-functional metrics are the metrics of the static properties of the BT, such 
 - **Condition-to-Fallback ratio** - Ratio between the condition nodes and the fallback nodes the $CFR$ value is proposed efficiency metric: $CFR=\huge{\frac{num\_conditions}{num\_fallbacks + \epsilon}}$ where $\epsilon$ is infinitesimal value to prevent division by zero. This way zero fallback trees are also considered.
 - **Action Granularity** -  The amount of nodes that build certain action. I compared with other tree the environment, condition and values for the action must be exactly the same, as well as the action and action output itself. 
 
+# Properties 
+## Functional Properties
+### Reactivity
+**Definition** - A BT is reactive if its decision-making depends only on the current state of the environment, regardless of the execution of the correct action. (directly taken) 
+### Efficiency
 
 # Disclaimer 
 The [Metrics](Behavior tree evaluation#Metrics) part is majorly copied or paraphrased from the *Evaluation behavior trees* paper and does not contain new information or research from my side. It is solely written for understanding of the paper and its contents, as well help in the future of my research.  
