@@ -33,7 +33,7 @@ Non-functional metrics are the metrics of the static properties of the BT, such 
 	- **Number of Nodes** - the amount of nodes within the tree. No distinction between node types
 - **Graph edit distance** - The similarity between two graphs, defined by minimum cost of transforming one graph to another by sequence of edit operations, such as add or remove nodes, replace of nodes and edges (although edge is the connection??).
 - **Condition-to-Fallback ratio** - Ratio between the condition nodes and the fallback nodes the $CFR$ value is proposed efficiency metric: $CFR=\huge{\frac{num\_conditions}{num\_fallbacks + \epsilon}}$ where $\epsilon$ is infinitesimal value to prevent division by zero. This way zero fallback trees are also considered.
-- **Action Granularity** -  
+- **Action Granularity** -  The amount of nodes that build certain action. I compared with other tree the environment, condition and values for the action must be exactly the same, as well as the action and action output itself. 
 
 
 # Disclaimer 
