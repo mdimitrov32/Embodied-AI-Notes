@@ -1,6 +1,6 @@
 {
   "copyLinkToElemenetAnchorTo100": false,
-  "copyFrameLinkByName": false,
+  "copyFrameLinkByName": true,
   "disableDoubleClickTextEditing": false,
   "folder": "Excalidraw",
   "cropFolder": "",
