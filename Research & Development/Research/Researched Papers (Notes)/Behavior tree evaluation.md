@@ -37,7 +37,10 @@ Non-functional metrics are the metrics of the static properties of the BT, such 
 # Properties 
 ## Functional Properties
 ### Reactivity
-**Definition** - A BT is reactive if its decision-making depends only on the current state of the environment, regardless of the execution of the correct action. (directly taken) 
+**Definition** - A BT is reactive if its decision-making depends only on the current state of the environment, regardless of the execution of the correct action. 
+Execution time can be considered general metric for reactivity assessment, as well as condition check frequency. 
+
+**Efficiency** - The degree to which a Behavior Tree performs its designated behavior with minimum consumption of resources. Can be measured assessed with the *Use of resources* metric. 
 ### Efficiency
 
 # Disclaimer 
