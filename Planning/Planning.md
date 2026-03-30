@@ -70,5 +70,8 @@ If the project plan is still not enough, ask for concise feedback on the parts t
 	- Ask Peter for preferred citation style: IEEE
 - [ ] Speak with 
 
+## Communication
+- [ ] 
+
 
 
