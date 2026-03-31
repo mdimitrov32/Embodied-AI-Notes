@@ -173,12 +173,15 @@ Looked into possible holonomic/mecanum 3/4 wheel bases and robotic arms [[Simula
 Tried to build the tidy bot and the ridgeback+ur10. Had issues:
 - Tidybot++ is in xml for mojuco and could find fast way to convert to urdf
 - ridgeback + ur10 had more progress but it would not load the combination into gazebo sim, might need to start fresh.
-
-
 # 2026-03-24 Robot building
 Today I worked on mashing a robot combination of ridgeback and ur10, then deploying it in gazebo. 
 
 It almost worked... I managed to build it with the xacro files, but could not get the proper ros2 controllers to work (ridgeback makes some of its own or smth). Started all over because one of the cloned repositories was clogged wit all sorts of robots... also found standalone git for the ridgeback. 
+
+# 2026-03-30 Adjustments on the Project plan
+Since last Wednesday (25th of March) I have been working on the project plan after the [[Meeting Notes Teade#2026-03-25 Meeting (with Peter)|meeting with Teade and Peter]]. Major points:
+- Adjustments in the explanation of the metrics for the assessment, additional assessment metrics research from EvalBTs paper
+- Rethinking the research questions to properly reflect the research. 
 
 
 
