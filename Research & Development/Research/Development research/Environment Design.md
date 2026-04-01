@@ -1,4 +1,4 @@
-![[Environment Design Diagrams#^frame=RobotLab Visual Representation|Physical layout]]
+![[Environment Design Diagrams#^frame=RobotLab Visual Representation|Physical layout|50%]]
 ![[Environment Design Diagrams]]
 ![[Action-Graph-Isaac-Sim_v1.png]]
 Following the [[Simulation environment choice]] where specific sim and framework have been chosen (gazebo + ros2) doc, now we need to fill in the gaps such as: 
