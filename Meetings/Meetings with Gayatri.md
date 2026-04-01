@@ -10,3 +10,5 @@ Advice:
 Research: 
 - research citation from fontys assesor, what style, cite found information. 
 - Research Report - there answer research question. What? How? Why? Any information needs to be cited. 
+
+# 2026-04-01
