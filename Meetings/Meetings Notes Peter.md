@@ -94,4 +94,8 @@ Project plan:
 Include date (todays date) for the writing 
 make the plan conform with the REAL final date
 
+Read Tede's article 
+
+Write down about the difference metrics and properties 
+
 
