@@ -2,10 +2,11 @@
   "nldates-obsidian",
   "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "obsidian-style-settings",
-  "image-converter",
   "better-export-pdf",
   "merge-notes",
   "folders2graph",
-  "obsidian-plugin-toc"
+  "obsidian-style-settings",
+  "obsidian-plugin-toc",
+  "obsidian-image-toolkit",
+  "image-converter"
 ]
