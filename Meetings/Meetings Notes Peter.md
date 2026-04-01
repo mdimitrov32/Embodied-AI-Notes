@@ -89,4 +89,9 @@ Project plan:
 - RQ is to lead the the way and not deviate.
 - Put sources from review material (research papers) as references in the project plan. 
 
+# 2026-04-01 Feedback Project plan
+
+Include date (todays date) for the writing 
+make the plan conform with the REAL final date
+
 
