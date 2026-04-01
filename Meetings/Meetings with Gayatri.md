@@ -12,3 +12,12 @@ Research:
 - Research Report - there answer research question. What? How? Why? Any information needs to be cited. 
 
 # 2026-04-01
+
+Personal leadership  
+Academic standard 
+Proficient Professional
+Fill them in every 2 weeks
+
+I have to pick which i want to make and which to pass to next person
+
+always have a why answer?
