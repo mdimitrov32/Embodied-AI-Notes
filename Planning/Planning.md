@@ -46,8 +46,8 @@ After meeting with Teade, I have gathered some information about the use cases/r
 
 ### Initial sim build
 If information and decision is made fast:
-- [ ] try to build first examples
-- [ ] explore
+- [x] try to build first examples
+- [x] explore
 
 ## Project plan
 If the project plan is still not enough, ask for concise feedback on the parts that need to be improved and work that on the side.  
@@ -55,9 +55,9 @@ If the project plan is still not enough, ask for concise feedback on the parts t
 # Planning for 30th till 3rd of April
 
 ## Till Wednesday
-- [ ] Adjust the Project plan after the meeting with Teade and Peter [[Meeting Notes Teade#2026-03-25 Meeting (with Peter)]]
-	- [ ] Adjust the performance metrics: Provide overall possible metrics and WHY. 
-		- [ ] Look into the BT performance metric paper. Find suitable metrics for research proposition.  
+- [x] Adjust the Project plan after the meeting with Teade and Peter [[Meeting Notes Teade#2026-03-25 Meeting (with Peter)]]
+	- [x] Adjust the performance metrics: Provide overall possible metrics and WHY. 
+		- [x] Look into the BT performance metric paper. Find suitable metrics for research proposition.  
 	- [ ] Figure out what is wrong with the research questions. 
 		- [ ] Try to make them more concrete and clearer.
 	- [ ] Look trough the entire document. Look for claims and verify them. If it is outside information - reference, if it is claim - explain why. 
@@ -68,10 +68,18 @@ If the project plan is still not enough, ask for concise feedback on the parts t
 		- Ask for feedback on the integrity of the research report
 - [x] Research citation styles
 	- Ask Peter for preferred citation style: IEEE
-- [ ] Speak with 
+- [ ] Speak with Rene
 
-## Communication
-- [ ] 
+## Feedback form Peter for Research
+- [x] date, not month
+- [ ] reference to article of Teade? https://onlinelibrary.wiley.com/doi/epdf/10.1155/2022/3314084
+- [ ] are these references everythinkg you could find?
+- [ ] What is the research gap? How can you formulate a question if you do not have background research?
+- [ ] is there a way to directly compare the BT models?
+- [ ] Novelty = Gap? how do you know it is novel? have you looked into iterature?
+- [ ] 3.2 I miss any reading/writing stuff
+- [ ] you will not make it with 2 weeks documentation
+- [ ] do you know the deadline? tuesday in week 17
 
 
 
