@@ -61,6 +61,7 @@ If the project plan is still not enough, ask for concise feedback on the parts t
 	- [ ] Figure out what is wrong with the research questions. 
 		- [ ] Try to make them more concrete and clearer.
 	- [ ] Look trough the entire document. Look for claims and verify them. If it is outside information - reference, if it is claim - explain why. 
+
 ## Till Friday
 - [ ] Research Report
 	- Write a paper with the research findings around the research questions
@@ -80,6 +81,8 @@ If the project plan is still not enough, ask for concise feedback on the parts t
 - [ ] 3.2 I miss any reading/writing stuff
 - [ ] you will not make it with 2 weeks documentation
 - [ ] do you know the deadline? tuesday in week 17
+### Extra steps for the Project plan
+- [ ]
 
 
 
