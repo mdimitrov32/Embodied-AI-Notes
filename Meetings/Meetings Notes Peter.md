@@ -98,4 +98,3 @@ Read Tede's article
 
 Write down about the difference metrics and properties 
 
-
