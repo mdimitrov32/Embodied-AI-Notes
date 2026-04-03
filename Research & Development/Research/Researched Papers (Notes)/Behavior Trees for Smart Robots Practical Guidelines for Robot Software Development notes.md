@@ -25,4 +25,5 @@ BT creation plan:
 - Robust Logical-Dynamical Chain
 (4) Add reactivity to the plan.
 - handling contingencies asap (placed on the left from deliberate subtree)
-- 
+
+Hands on application of BTs into robotics, with examples of BTs styles, BT building pipeline, Trade-offs, application in robotics
