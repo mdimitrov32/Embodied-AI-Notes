@@ -73,10 +73,10 @@ If the project plan is still not enough, ask for concise feedback on the parts t
 
 ## Feedback form Peter for Research
 - [x] date, not month
-- [ ] reference to article of Teade? https://onlinelibrary.wiley.com/doi/epdf/10.1155/2022/3314084
+- [x] reference to article of Teade? https://onlinelibrary.wiley.com/doi/epdf/10.1155/2022/3314084
 - [ ] are these references everythinkg you could find?
 - [ ] What is the research gap? How can you formulate a question if you do not have background research?
-- [ ] is there a way to directly compare the BT models?
+- [x] is there a way to directly compare the BT models?
 - [ ] Novelty = Gap? how do you know it is novel? have you looked into iterature?
 - [ ] 3.2 I miss any reading/writing stuff
 - [ ] you will not make it with 2 weeks documentation
