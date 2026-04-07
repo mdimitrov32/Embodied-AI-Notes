@@ -99,7 +99,7 @@ Read Tede's article
 Write down about the difference metrics and properties 
 
 ## Feedback
-- [x] date, not month
+- [ ] date, not month
 - [ ] reference to article of Teade? https://onlinelibrary.wiley.com/doi/epdf/10.1155/2022/3314084
 - [ ] are these references everythinkg you could find?
 - [ ] What is the research gap? How can you formulate a question if you do not have background research?
