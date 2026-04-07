@@ -128,6 +128,11 @@ Provide pictures for clearer understanding
 
 How can Agentic AI do BTs
 
+# 2026-04-08 
+
+## Pre-meeting
+
+
 
 
 
