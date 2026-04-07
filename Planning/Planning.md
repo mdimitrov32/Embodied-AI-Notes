@@ -76,9 +76,9 @@ Taken form [[Meetings Notes Peter#2026-04-01 Feedback Project plan]] Feedback
 - [x] date, not month
 - [x] reference to article of Teade? https://onlinelibrary.wiley.com/doi/epdf/10.1155/2022/3314084
 - [x] are these references everythinkg you could find?
-- [x] What is the research gap? How can you formulate a question if you do not have background research?
+- [ ] What is the research gap? How can you formulate a question if you do not have background research?
 - [x] is there a way to directly compare the BT models?
-- [x] Novelty = Gap? how do you know it is novel? have you looked into iterature?
+- [ ] Novelty = Gap? how do you know it is novel? have you looked into iterature?
 - [ ] 3.2 I miss any reading/writing stuff
 - [x] you will not make it with 2 weeks documentation
 - [x] do you know the deadline? tuesday in week 17
@@ -86,7 +86,7 @@ Taken form [[Meetings Notes Peter#2026-04-01 Feedback Project plan]] Feedback
 # Planning 6th till 11th of April
 
 ## Till Wednesday
-- [ ] Make Sprit 2 presentation
+- [x] Make Sprit 2 presentation
 - [ ] Work on the design of the environment
 	- [ ] Speak with Rene when you replicate the issue
 
