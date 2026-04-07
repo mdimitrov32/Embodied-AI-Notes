@@ -116,7 +116,7 @@ BlackBoard ^zhN0DwYM
 got it from LLM-as-BT Planner.  ^jzWWmVMN
 
 ## Embedded Files
-f8fbda3d79d67e27c871be8787a39b7ca70590ae: [[{2C8FDF62-7EE7-4CCF-8E72-E053A169A282}.png]]
+f8fbda3d79d67e27c871be8787a39b7ca70590ae: [[LLM-as-BT-Planner-getTypes.png]]
 
 %%
 ## Drawing
