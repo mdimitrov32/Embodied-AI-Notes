@@ -10,6 +10,9 @@ Many options already exist:
 -  Human-in-loop: A human-AI communication till human gives green light, on failure goes back to AI
 
 
+How how to structure 
+
+
 
 
 
