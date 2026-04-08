@@ -88,7 +88,7 @@ Taken form [[Meetings Notes Peter#2026-04-01 Feedback Project plan]] Feedback
 ## Till Wednesday
 - [x] Make Sprit 2 presentation
 - [ ] Work on the design of the environment
-	- [ ] Speak with Rene when you replicate the issue
+	- [ ] Speak with Rene Bakx when you replicate the issue
 
 
 ## Till Friday
