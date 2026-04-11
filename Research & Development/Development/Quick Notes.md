@@ -1,3 +1,6 @@
+# Gazebo launch from ros
+```ros2 launch ros_gz_sim gz_sim.launch.py```
+
 
 # clearpath r100 setup
 https://docs.clearpathrobotics.com/docs/ros/tutorials/simulator/install/
