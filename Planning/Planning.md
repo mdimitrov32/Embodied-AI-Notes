@@ -83,18 +83,23 @@ Taken form [[Meetings Notes Peter#2026-04-01 Feedback Project plan]] Feedback
 - [x] you will not make it with 2 weeks documentation
 - [x] do you know the deadline? tuesday in week 17
 
-# Planning 6th till 11th of April
+# Planning 6th till 10th of April
 
 ## Till Wednesday
 - [x] Make Sprit 2 presentation
-- [ ] Work on the design of the environment
+- [x] Work on the design of the environment
 	- [ ] Speak with Rene Bakx when you replicate the issue
 
 
 ## Till Friday
 - [ ] Write research report (Fill in all information gathered from the researches)
 
+# Planning 13th till 17th of April
 
+- [ ] Start on poster making
+- [ ] Aim for package creation where to put all the NEEDED nodes
+	- [ ] 
+- [ ] 
 
 
 
