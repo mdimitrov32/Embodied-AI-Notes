@@ -11,3 +11,5 @@ If i make a package it should contain:
 - BTCPP control / Groot2 
 
 In the beginning I want separate controls to figure out both base and manipulator also to be separate robots. Later control them both
+
+How to make a package that contains bothe the base and manipulator seprately and toghether. All of them controllable. Easiest fastest solution, if that means for example making simpler base im okay
