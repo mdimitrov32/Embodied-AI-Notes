@@ -2,7 +2,7 @@
 ```ros2 launch ros_gz_sim gz_sim.launch.py```
 # clearpath r100 setup
 https://docs.clearpathrobotics.com/docs/ros/tutorials/simulator/install/
-
+https://docs.clearpathrobotics.com/docs/ros/tutorials/simulator/simulate
 -  Launch sim with ```ros2 launch clearpath_gz simulation.launch.py rviz:=true```
 	- add ```world:=<world_name>``` to change world
 
