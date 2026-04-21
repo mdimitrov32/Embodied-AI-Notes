@@ -184,4 +184,4 @@ Since last Wednesday (25th of March) I have been working on the project plan aft
 - Rethinking the research questions to properly reflect the research. 
 
 # 2026-04-21 Catch up on the work
-![[2026-04-21 16-55-03.mp4]]
+![[R100+UR10_ROS2_Gazebo.mp4]]
