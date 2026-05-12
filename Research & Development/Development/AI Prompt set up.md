@@ -18,7 +18,7 @@ Output Requirements:
 - If possible limit the use of SubTrees
 
 ### Input (structure taken from BTGenBot-2, adjusted for current research):
-The behavior tree facilitates a robot's navigation and manipulation by implementing a fallback mechanism to achieve its tasks. The robot has 2 main task of same importance and execution and reactive behavior for low battery and charging. For the robot to accomplish the task it has to move between 6 available locations, pick and place 2 identical objects in the same manner, from their available location to pick to their designated place location. The robot possesses available actions and condition nodes to check what is holding and what is available to pick. It is of huge importance for the robot to be able to continue pick and place tasks even when interrupted due to low battery.
+The behavior tree facilitates a robot's navigation and manipulation by implementing a fallback mechanism to achieve its tasks. The robot has 2 main task of same importance and execution and reactive behavior for low battery and charging. For the robot to accomplish the task it has to move between 6 available locations, pick and place 2 identical objects in the same manner, from their available location to pick to their designated place location. The robot possesses available actions and condition nodes to check what is holding and what is available to pick. It is of huge importance for the robot to be able to continue pick and place tasks even when interrupted due to low battery. When building the tree try to use the actions ones per item, that means no same action in another subtree, make use of check.
 
 ACTIONS
 
