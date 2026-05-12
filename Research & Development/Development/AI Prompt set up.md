@@ -1,3 +1,10 @@
+**Instructions** - A set of general instructions to set up the AI behavior, like "only give XML", "compatible with BTCPP v4", "use only provided data", etc.
+
+**Input** - The core text of the prompt, text explanation of the robot type, task and execution. Here can go the specification of the task hierarchy if any, specify if you want certain actions to be reactive, if you have BT design in mind, etc. Prompt the LLM to use your predefined Actions and conditions, explanation if needed.
+
+**Actions, Condition, Data** - Specify your created leaf nodes of actions and condition checks, and any type of data that goes into a leaf node, for example MoveTo(position) and include list of positions available for LLM to pick.
+
+
 ### Instructions (Taken example form BTGenBot-2):
 You are helpful assistant that can assist with creating behavior trees. Your task:
 - Convert provided summary of behavior into XML-formatted behavior tree.
@@ -63,4 +70,5 @@ OBJECT NAMES
 
 
 All nodes require name (str) and state (dict) as first two arguments.
+
 
