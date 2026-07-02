@@ -187,3 +187,6 @@ Since last Wednesday (25th of March) I have been working on the project plan aft
 ![[R100+UR10_ROS2_Gazebo.mp4]]
 
 
+# Notes from the day before assesment
+
+could not finish 
